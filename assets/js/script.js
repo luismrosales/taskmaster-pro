@@ -127,7 +127,7 @@ var taskSpan = $("<span>")
 .text(date);
 // replace input with span element
 $(this).replaceWith(taskSpan)
-})
+});
 
 
 
